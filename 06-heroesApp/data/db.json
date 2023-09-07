@@ -8,22 +8,6 @@
   ],
   "heroes": [
     {
-      "id": "dc-batman",
-      "superhero": "Batman",
-      "publisher": "DC Comics",
-      "alter_ego": "Bruce Wayne",
-      "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
-    },
-    {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
-    },
-    {
       "id": "dc-flash",
       "superhero": "Flash",
       "publisher": "DC Comics",
@@ -166,6 +150,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "RCZALk_",
+      "superhero": "Giancarlo",
+      "publisher": "DC Comics",
+      "alter_ego": "Strider",
+      "first_appearance": "Comic Udemy 2023",
+      "characters": "Giancarlo",
+      "alt_img": "https://www.zbrushcentral.com/uploads/default/original/4X/e/0/5/e05add91007ef2102424164b5ca961b9e15dc85c.jpeg"
     }
   ]
 }
